@@ -114,6 +114,7 @@
 }
 .comment-container{
   overflow: hidden;
+  min-height: 537px;
 }
 .face {
   display: inline-block;
