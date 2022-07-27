@@ -194,7 +194,7 @@ class App extends React.Component {
       <footer className='footer'>
         <div className="footer-container">
           <div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div>
-          <div>Learn from project: <a href="https://gitee.com/react-course-series/react-jsx-demo">react-jsx-demo</a> </div>
+          <div>Learn from <a href="https://gitee.com/react-course-series/react-jsx-demo">react-jsx-demo</a> </div>
         </div>
       </footer>
       </>)
