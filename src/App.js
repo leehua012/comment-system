@@ -124,7 +124,7 @@ class App extends React.Component {
         <div className="comment-container">
           {/* no.of comments */}
           <div className="comment-head">
-            <span>{this.state.list.length} Comments</span>
+            <span>{this.state.list.length} {this.state.list.length>1? 'Comments': 'Comment'}</span>
           </div>
           {/* sort */}
           <div className="tabs-order">
