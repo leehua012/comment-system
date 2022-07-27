@@ -1,4 +1,7 @@
-# Getting Started with Create React App (Comment System)
+# Getting Started with Create React App 
+# (Comment System)
+
+![Project UI](https://github.com/leehua012/comment-system/blob/main/ui.png)
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - This is a **pure frontend comment system** that supports the following features:
