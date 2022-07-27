@@ -2,11 +2,11 @@
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - This is a pure frontend comment system that supports the following features:
-  -- add new post
-  -- delete post
-  -- like/dislike
-  -- sort by popularity
-  -- sort by time
+  1 add new post
+  1 delete post
+  1 like/dislike
+  1 sort by popularity
+  1 sort by time
 
 ## Available Scripts
 
