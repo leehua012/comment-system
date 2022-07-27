@@ -5,7 +5,8 @@
 1. add new post
 2. delete post
 3. like/dislike
-4. sort by popularity1 sort by time
+4. sort by popularity
+5. sort by time
 
 ## Available Scripts
 
